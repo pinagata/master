@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0e6b2a6-1d1a-48ee-b6e6-3b2503814939" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/comparison_operators.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dictionaries.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/files" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/for_loops.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/if_elif_else_statements.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/objects_and_data_structures_test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sets_and_booleans.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tuples.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a0e6b2a6-1d1a-48ee-b6e6-3b2503814939" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +83,8 @@
       <file leaf-file-name="while_loops.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/while_loops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -768,8 +757,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/while_loops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
