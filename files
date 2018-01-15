@@ -1,0 +1,12 @@
+f = open('test.txt')
+print(f)
+print(f.read())
+print(f.read())
+print(f.seek(0))
+print(f.read())
+print(f.seek(0))
+print(f.readlines())
+for line in open('test.txt'):
+    print(line)
+for words in open('test.txt'):
+    print(words)
