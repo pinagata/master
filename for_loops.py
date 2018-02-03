@@ -58,7 +58,7 @@ for (t1,t2) in l:
 d = {'k1':1,'k2':2,'k3':3}
 print(d)
 for item in d:
-    print item
+    print (item)
 
 # tuple unpacking for a dictionary
 for (k,v) in d.iteritems():
